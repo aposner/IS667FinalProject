@@ -15,7 +15,7 @@
       </div>
       <div class="form-group">
         <label for="exampleInputPassword1">Address?</label>
-        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter Address" name="address">
+        <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Address" name="address">
       </div>
       <div class="form-group">
         <label for="exampleInputEmail1">Where do you want to go (Lat)?</label>
@@ -23,7 +23,7 @@
       </div>
       <div class="form-group">
         <label for="exampleInputPassword1">Where do you want to go (Long)?</label>
-        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter Long" name="lng">
+        <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Long" name="lng">
       </div>
       <div class="form-group">
         <label for="exampleInputEmail1">Type?</label>
